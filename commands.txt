@@ -1,0 +1,19 @@
+git init
+
+git add .
+
+git commit -m 'msg'
+
+https://github.com/developeridealancy/Idealancy-ERP-system.git  
+git@github.com:developeridealancy/Idealancy-ERP-system.git
+
+git remote add origin 'https://github.com/developeridealancy/Inventory-Data-Base.git'
+
+git config --global user.email 'developer.idealancy@gmail.com'
+git config --global user.name 'developeridealancy'
+
+git push origin master
+
+git clone 'repo link'
+
+git config --global --edit

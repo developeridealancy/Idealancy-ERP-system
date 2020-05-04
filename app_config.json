@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "window_width" : "800",
+    "window_height" : "600",
+    "application name" : "ERP system - Powered by SyntaxFit",
+    "remote_server_link" : "https://github.com/developeridealancy/Inventory-Data-Base.git",
+    "background color" : "white",
+    "rows" : "20",
+    "columns" : "13",
+    "user_config_path" : "C:\\Users\\Public\\Documents\\erp_user_config.json",
+    "product_details_file" : "Product Details.npz",
+    "user_credentials_file" : "user credentials.npz",
+    "product_inventory_report_file" : "Product Inventory Report.npz",
+    "wholesaler_details_file" : "wholesaler details.npz",
+    "purchase_list_to_confirm_file" : "purchase list to confirm.npz",
+    "confirm_purchase_list_file" : "confirm purchase list.npz",
+    "back_log_task_file" : "back log task.npz",
+    "order_sheet_file" : "order sheet.npz"
+  }
+}
