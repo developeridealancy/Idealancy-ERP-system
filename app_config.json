@@ -16,6 +16,8 @@
     "purchase_list_to_confirm_file" : "purchase list to confirm.npz",
     "confirm_purchase_list_file" : "confirm purchase list.npz",
     "back_log_task_file" : "back log task.npz",
-    "order_sheet_file" : "order sheet.npz"
+    "order_sheet_file" : "order sheet.npz",
+    "none_img" : "noneimg.jpg",
+    "confirm_prchs_list_btn" : "disable"
   }
 }
