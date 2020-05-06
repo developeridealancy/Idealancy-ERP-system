@@ -1,0 +1,3 @@
+some bug fixed
+quantity coloumn added in product entry tab
+in website column added in product entry tab
