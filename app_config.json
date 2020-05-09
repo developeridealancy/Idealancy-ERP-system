@@ -18,6 +18,7 @@
     "back_log_task_file" : "back log task.npz",
     "order_sheet_file" : "order sheet.npz",
     "none_img" : "noneimg.jpg",
-    "confirm_prchs_list_btn" : "disable"
+    "confirm_prchs_list_btn" : "disable",
+    "courier" : ["Trax","Rocket","Leopards"]
   }
 }
