@@ -19,6 +19,7 @@
     "order_sheet_file" : "order sheet.npz",
     "none_img" : "noneimg.jpg",
     "confirm_prchs_list_btn" : "disable",
-    "courier" : ["Trax","Rocket","Leopards"]
+    "courier" : ["Trax","Rocket","Leopards"],
+    "status" : ["Canceled","Pending","Unpacked","Packed","CN Booked","DisPatched","Delivered","Returned","Replaced"]
   }
 }
