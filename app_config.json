@@ -20,6 +20,7 @@
     "none_img" : "noneimg.jpg",
     "confirm_prchs_list_btn" : "disable",
     "courier" : ["Trax","Rocket","Leopards"],
+    "ship_mode" : ["Over Night","Over Land"],
     "status" : ["Canceled","Pending","Unpacked","Packed","CN Booked","DisPatched","Delivered","Returned","Replaced"]
   }
 }
