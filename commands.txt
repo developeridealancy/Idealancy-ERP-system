@@ -18,3 +18,5 @@ git push origin master
 git clone 'repo link'
 
 git config --global --edit
+
+git config --global credential.helper store
