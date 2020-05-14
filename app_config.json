@@ -13,6 +13,7 @@
     "user_credentials_file" : "user credentials.npz",
     "product_inventory_report_file" : "Product Inventory Report.npz",
     "wholesaler_details_file" : "wholesaler details.npz",
+    "reseller_details_file" : "reseller details.npz",
     "purchase_list_to_confirm_file" : "purchase list to confirm.npz",
     "confirm_purchase_list_file" : "confirm purchase list.npz",
     "back_log_task_file" : "back log task.npz",

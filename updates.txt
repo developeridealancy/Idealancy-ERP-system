@@ -1,2 +1,8 @@
+____________THING UPDATE & FIX IN THIS VERSION_____________
+
 some bug fixed
-import sheet button added for importing orders from excel format
+some bug fix in import XLSX button
+bug fix in order management order update process
+status filter option added in order management 
+product search dropdown improved and modified
+some bug fixed in packing
