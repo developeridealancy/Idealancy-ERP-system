@@ -1,8 +1,7 @@
 ____________THING UPDATE & FIX IN THIS VERSION_____________
 
 some bug fixed
-some bug fix in import XLSX button
-bug fix in order management order update process
-status filter option added in order management 
-product search dropdown improved and modified
-some bug fixed in packing
+improvement in import order form excel error window
+Reseller_management button added
+replacer order id entry remove form order entry frame
+address text frame replace form normal entry in order entry frame

@@ -20,6 +20,7 @@
     "order_sheet_file" : "order sheet.npz",
     "none_img" : "noneimg.jpg",
     "confirm_prchs_list_btn" : "normal",
+    "service type" : ["Regular","Replacement"],
     "courier" : ["Trax","Rocket","Leopards"],
     "ship_mode" : ["Over Night","Over Land"],
     "status" : ["Canceled","Pending","Unpacked","Packed","CN Booked","DisPatched","Delivered","Returned","Replaced"],
