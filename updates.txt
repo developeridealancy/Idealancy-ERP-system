@@ -1,5 +1,4 @@
 ____________THING UPDATE & FIX IN THIS VERSION_____________
 
-product search bug fixed
-bug fixed in order entry frame
-daily purchasing bug fixed
+bug fixed in order management tk_table
+shipper page filter added in order management
