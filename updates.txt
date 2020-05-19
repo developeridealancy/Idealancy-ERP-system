@@ -1,7 +1,5 @@
 ____________THING UPDATE & FIX IN THIS VERSION_____________
 
-some bug fixed
-improvement in import order form excel error window
-Reseller_management button added
-replacer order id entry remove form order entry frame
-address text frame replace form normal entry in order entry frame
+product search bug fixed
+bug fixed in order entry frame
+daily purchasing bug fixed
