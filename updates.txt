@@ -1,4 +1,4 @@
 ____________THING UPDATE & FIX IN THIS VERSION_____________
 
-bug fixed in order management tk_table
-shipper page filter added in order management
+bug fixed in Reseller_management
+In Product_entry in_website filter added.
