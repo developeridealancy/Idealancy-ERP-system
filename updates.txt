@@ -2,3 +2,4 @@ ____________THING UPDATE & FIX IN THIS VERSION_____________
 
 bug fixed in tk_table row selection
 online and offline working feature added.
+Feature added in require items tab: which will also show quantity of require products.
