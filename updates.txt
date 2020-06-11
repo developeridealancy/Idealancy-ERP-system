@@ -1,6 +1,6 @@
 ____________THING UPDATE & FIX IN THIS VERSION_____________
 
-bug fixed in tk_table row selection
-online and offline working feature bugs fixed.
-Return button added in order management.
-advance paid checkbutton added in order management.
+Expense management tab added.
+click highlight feature added in packing.
+date filter added in daily_purchasing and expense tab.
+purchaase list displayed in daily_purchasing tab.

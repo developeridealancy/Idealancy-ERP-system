@@ -26,6 +26,6 @@
     "ship_mode" : ["Over Night","Over Land"],
     "status" : ["Canceled","Pending","Unpacked","Packed","CN Booked","DisPatched","Delivered","Returned","Replaced"],
     "shipper_page" : ["Idealancy","Homazing", "Apna Bazar"],
-    "expense_category" : ["Product", "Packing", "Other"]
+    "expense_category" : ["Product", "Packing", "Petty Cash", "Networking", "Food", "Asset", "Salary", "Developer", "Advertisement", "Rent"]
   }
 }
