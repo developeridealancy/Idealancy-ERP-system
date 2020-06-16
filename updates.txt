@@ -4,3 +4,4 @@ Expense management tab added.
 click highlight feature added in packing.
 date filter added in daily_purchasing and expense tab.
 purchaase list displayed in daily_purchasing tab.
+feature improvement in add stock tab add.

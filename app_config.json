@@ -22,7 +22,7 @@
     "none_img" : "noneimg.jpg",
     "confirm_prchs_list_btn" : "disable",
     "service type" : ["Regular","Replacement"],
-    "courier" : ["Trax","Rocket","Leopards"],
+    "courier" : ["Trax","Rocket","Leopards","Other","Self"],
     "ship_mode" : ["Over Night","Over Land"],
     "status" : ["Canceled","Pending","Unpacked","Packed","CN Booked","DisPatched","Delivered","Returned","Replaced"],
     "shipper_page" : ["Idealancy","Homazing", "Apna Bazar"],
