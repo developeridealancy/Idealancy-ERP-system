@@ -1,7 +1,5 @@
 ____________THING UPDATE & FIX IN THIS VERSION_____________
 
-Expense management tab added.
-click highlight feature added in packing.
-date filter added in daily_purchasing and expense tab.
-purchaase list displayed in daily_purchasing tab.
-feature improvement in add stock tab add.
+In wholesaler_details_management saler list table added pay cash feature added.
+generate_sheet_in_trax_fmt bug templete updated
+shipper id added app_config_json file

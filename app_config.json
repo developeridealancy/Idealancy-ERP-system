@@ -20,6 +20,7 @@
     "order_sheet_file" : "order sheet.npz",
     "expense_file" : "expenses.npz",
     "none_img" : "noneimg.jpg",
+    "trax_pickup_address_id" : "12891",
     "confirm_prchs_list_btn" : "disable",
     "service type" : ["Regular","Replacement"],
     "courier" : ["Trax","Rocket","Leopards","Other","Self"],
