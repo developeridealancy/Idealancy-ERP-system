@@ -4,5 +4,8 @@ In wholesaler_details_management saler list table added pay cash feature added.
 generate_sheet_in_trax_fmt bug templete updated
 shipper id added app_config_json file
 trax cities list tab added in packing.
-feature add: require quantity editor in item require tab and total invtory value displayed in Sales Report.s
+feature add: require quantity editor in item require tab and total invtory value displayed in Sales Reports
+             dispatched parcel detail displayed in the Sales Reports.
 	     Now wholesaler details will also be shown on the required items images.
+	     show more and show less button added in order management.
+	     
