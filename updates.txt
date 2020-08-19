@@ -8,3 +8,4 @@ In order sheet :
 
 trax booking:
 	booking new update handled
+	shipper filter added
