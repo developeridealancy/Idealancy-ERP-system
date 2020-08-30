@@ -9,3 +9,7 @@ In order sheet :
 trax booking:
 	booking new update handled
 	shipper filter added
+
+In Reseller Management: 
+	when user will pay some payment for the reseller it will show
+     bill row for the payment aswell.
