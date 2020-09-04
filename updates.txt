@@ -13,3 +13,10 @@ trax booking:
 In Reseller Management: 
 	when user will pay some payment for the reseller it will show
      bill row for the payment aswell.
+
+In daily Product purchasing:
+	In/out Stock tab added for make instock and outOfStock the
+     products list.
+
+In product entry:
+	sort by quantity filter added
