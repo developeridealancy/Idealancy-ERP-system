@@ -1,22 +1,12 @@
 ____________THING UPDATE & FIX IN THIS VERSION_____________
 
-In order sheet :
-	clone button added.
-	city field replace with cities list combo-box.
-	shipMode, servicetype and courier filter added.
-	invoice button and feature added
+version: 3.3
 
 trax booking:
-	booking new update handled
-	shipper filter added
-
-In Reseller Management: 
-	when user will pay some payment for the reseller it will show
-     bill row for the payment aswell.
-
-In daily Product purchasing:
-	In/out Stock tab added for make instock and outOfStock the
-     products list.
+	now you can change shipper name while generating trax sheet.
 
 In product entry:
-	sort by quantity filter added
+	number of require quantity of a product is visible now
+
+In Packinng:
+	now user can generate order receipt after pack.
