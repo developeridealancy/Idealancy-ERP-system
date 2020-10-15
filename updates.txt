@@ -1,6 +1,9 @@
 ____________THING UPDATE & FIX IN THIS VERSION_____________
 
-version: 3.3
+version: 3.4
+
+App: 
+	now app version will be visible.
 
 trax booking:
 	now you can change shipper name while generating trax sheet.
@@ -10,3 +13,6 @@ In product entry:
 
 In Packinng:
 	now user can generate order receipt after pack.
+
+In Order Management:
+	add order function updated
