@@ -13,6 +13,8 @@ In product entry:
 
 In Packinng:
 	now user can generate order receipt after pack.
+	Order details diplayed more prominently.
+	On replacement order, header and footer diplayed red.
 
 In Order Management:
 	add order function updated
