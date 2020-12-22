@@ -15,6 +15,7 @@ In Packinng:
 	now user can generate order receipt after pack.
 	Order details diplayed more prominently.
 	On replacement order, header and footer diplayed red.
+	Trax cities tab error fixed
 
 In Order Management:
 	add order function updated
