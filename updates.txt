@@ -7,7 +7,8 @@ App:
 
 trax booking:
 	now you can change shipper name while generating trax sheet. trax booking sheet template updated
-	rocket booking sheet template generation updated
+	rocket booking sheet template generation updated.
+	Stallion booking template added.
 
 In product entry:
 	number of require quantity of a product is visible now
