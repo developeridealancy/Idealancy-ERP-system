@@ -18,6 +18,7 @@ In Packinng:
 	Order details diplayed more prominently.
 	On replacement order, header and footer diplayed red.
 	Trax cities tab error fixed
+	In order receipt shipper name added
 
 In Order Management:
 	add order function updated
